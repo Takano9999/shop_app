@@ -1,7 +1,3 @@
 # shop_app
 
-## made by ArtemFiniuk
-
-
-
-
+## made by TakanoKenji
